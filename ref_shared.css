@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CM Super Strong Anchor Shackles | Murphy Industrial Products</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>@page{size:letter;margin:0}*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{--brand:#E8600A;--green:#3E6B38;--green-lt:#5A8A50;--dark:#2D4A28;--mid:#444;--light:#777;--rule:#CCC;--bg:#FFF;--bg2:#F7F5F2;--header-bg:#F0EDE8;--font-d:'Bebas Neue',Impact,sans-serif;--font-b:'Source Sans 3','Segoe UI',sans-serif}
+html,body{font-family:var(--font-b);background:#E8E4DD}
+.catalog-page{width:850px;min-height:1100px;background:var(--bg);margin:24px auto;box-shadow:0 4px 40px rgba(0,0,0,.15);position:relative;overflow:hidden;display:flex;flex-direction:column}
+.page-top-bar{background:var(--header-bg);padding:12px 40px 10px;display:flex;align-items:center;justify-content:space-between;border-bottom:3px solid var(--brand)}
+.logo-img{height:36px;width:auto}.page-number{font-family:var(--font-d);font-size:14px;letter-spacing:2px;color:var(--green)}
+.section-label-bar{font-size:10px;letter-spacing:2px;color:var(--green-lt);text-transform:uppercase;font-weight:600}
+.category-bar{background:var(--green);padding:6px 40px;display:flex;align-items:center;justify-content:space-between}
+.category-bar span{font-family:var(--font-d);font-size:13px;letter-spacing:2px;color:#fff}
+.page-title-area{padding:10px 40px 6px;border-bottom:2px solid var(--brand);margin:0 40px;padding-left:0;padding-right:0;display:flex;align-items:flex-end;justify-content:space-between}
+.title-left{flex:1}
+.page-title{font-family:var(--font-d);font-size:30px;letter-spacing:1px;color:var(--dark);line-height:1}
+.page-subtitle{font-size:11px;color:var(--light);letter-spacing:1px;text-transform:uppercase;margin-top:2px;font-weight:600}
+.content-section{display:flex;padding:4px 40px 0px;gap:14px;align-items:flex-start}
+.content-left{flex:0 0 280px}.content-right{flex:1;display:flex;flex-direction:column;gap:6px}
+.notes-block{background:var(--bg2);border-left:3px solid var(--brand);padding:6px 10px;font-size:10px;color:var(--mid);line-height:1.5}
+.notes-block p{margin-bottom:4px}.notes-block p:last-child{margin-bottom:0}
+.warning-block{background:#FFF8F0;border-left:3px solid #D43D3D;padding:6px 10px;font-size:9px;color:#8B2020;line-height:1.4}
+.table-section{padding:1px 40px 2px}
+.table-header-label{font-family:var(--font-d);font-size:14px;letter-spacing:1px;color:var(--dark);margin-bottom:2px;display:flex;align-items:center;gap:8px}
+.table-header-label::after{content:'';flex:1;height:1px;background:var(--rule)}
+table.spec-table{width:100%;border-collapse:collapse;font-size:9.5px}
+table.spec-table thead th{background:var(--green);color:#fff;padding:5px 4px;text-align:center;font-weight:600;font-size:8.5px;letter-spacing:.3px;text-transform:uppercase;border-right:1px solid var(--green-lt);line-height:1.2}
+table.spec-table thead th:last-child{border-right:none}
+table.spec-table thead th:first-child{border-right:2px solid var(--brand)}
+table.spec-table thead th.group-hdr{background:#2D4A28;font-size:9px;letter-spacing:.5px}
+table.spec-table tbody td{padding:3.5px 4px;text-align:center;border-bottom:1px solid #E8E4DD;color:var(--mid);font-size:9.5px}
+table.spec-table tbody tr:nth-child(even){background:var(--bg2)}
+table.spec-table tbody tr:hover{background:#EEF2ED}
+table.spec-table tbody td.rd{background:rgba(62,107,56,.08);font-weight:700;color:var(--dark);border-right:2px solid var(--green)}
+table.spec-table tbody td.wll{font-weight:700;color:var(--brand)}
+.page-footer{background:var(--green);padding:10px 40px;display:flex;align-items:center;justify-content:space-between;margin-top:auto}
+.footer-left{font-size:9px;color:rgba(255,255,255,.5);letter-spacing:1px}
+.footer-center{font-family:var(--font-d);font-size:14px;color:#E8600A;letter-spacing:2px}
+.footer-right{font-size:9px;color:rgba(255,255,255,.5);letter-spacing:1px}
+.custom-cta{text-align:center;padding:3px 40px 5px;font-family:var(--font-d);font-size:14px;letter-spacing:2px;color:var(--green)}
+.custom-cta-sub{font-family:var(--font-b);font-size:10px;color:var(--light);letter-spacing:1px;font-weight:400;margin-top:2px}
+.table-footnote{font-size:7px;color:var(--light);padding:1px 0 0;line-height:1.3}
+.sb{background:var(--bg2);padding:4px 6px;flex:1;text-align:center}
+.sbv{font-family:var(--font-d);font-size:16px;color:var(--green)}
+.sbl{font-size:7px;color:var(--light);text-transform:uppercase;letter-spacing:1px}
+.feat-title{font-family:var(--font-d);font-size:12px;letter-spacing:1px;color:var(--dark);margin-bottom:3px}
+.feat-list{font-size:9px;color:var(--mid);line-height:1.5}
+.feat-item{display:flex;gap:4px;margin-bottom:1px}
+.feat-dot{color:var(--brand);font-weight:700}
+.style-sep{border-right:2px solid var(--brand)!important}
+.dim-strip{padding:2px 40px 4px;display:flex;align-items:center;gap:16px}
+.dim-strip img{height:60px;object-fit:contain}
+@media print{html,body{background:#fff}.catalog-page{box-shadow:none;margin:0}}</style>
+</head>
+<body>
+<div class="catalog-page">
+  <div class="page-top-bar">
+    <div><img class="logo-img" src="https://murphylift.com/static/version1775463787/frontend/Melon/murphy/en_US/images/logo.svg" alt="Murphy"></div>
+    <span class="section-label-bar">Shackles &amp; Connectors</span>
+    <span class="page-number">PAGE 18</span>
+  </div>
+  <div class="category-bar"><span>Rigging Hardware &nbsp;›&nbsp; Shackles &nbsp;›&nbsp; CM Super Strong Anchor Shackles</span><span>murphylift.com</span></div>
+  <div class="page-title-area">
+    <div class="title-left">
+      <div class="page-title">CM Super Strong Anchor Shackles</div>
+      <div class="page-subtitle">Screw Pin &middot; Round Pin &middot; Bolt/Nut/Cotter &middot; Working Load Limit: 1/2 to 35 Tons</div>
+    </div>
+    <div style="flex-shrink:0;margin-left:16px;margin-bottom:4px;"><img src="../assets/products/ref_shackles_cm_super_strong_1.png" alt="Made in USA" style="height:36px;width:auto;"></div>
+  </div>
+
+  <div class="content-section">
+    <div class="content-left">
+      <img src="../assets/products/ref_shackles_cm_super_strong_2.png" alt="CM Super Strong Anchor Shackles - Screw Pin, Round Pin, Bolt Nut Cotter" style="width:275px;height:auto;object-fit:contain;border:none;background:transparent;display:block;">
+    </div>
+    <div class="content-right">
+      <div class="notes-block">
+        <p>CM Super Strong Anchor Shackles are carbon-type shackles with strength ratings 17 to 50% stronger than comparable-sized carbon shackles. Designed with a 6:1 design factor (screw pin &amp; bolt/nut/cotter) or 5:1 (round pin).</p>
+        <p>Manufactured from technically advanced domestic (U.S.A.) microalloy steel with optimal hardness for strength and ductility. Shackles show major deformation before failure. Anchor shackles can be side loaded or used for multiple connections.</p>
+        <p>Meets dimensional requirements and exceeds performance requirements of RR-C-271. Screw pin &amp; bolt/nut/cotter shackles meet ASME B30.26.</p>
+      </div>
+      <div style="display:flex;gap:6px;margin-top:1px;">
+        <div class="sb"><div class="sbv">6:1</div><div class="sbl">Design Factor</div></div>
+        <div class="sb"><div class="sbv">B30.26</div><div class="sbl">ASME Compliant</div></div>
+        <div class="sb"><div class="sbv">RR-C-271</div><div class="sbl">Exceeds Spec</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="table-section">
+    <div class="table-header-label">Product Codes, Working Load Limits &amp; Finishes</div>
+    <table class="spec-table">
+      <thead>
+        <tr>
+          <th rowspan="2" style="width:40px">Size<br>D</th>
+          <th rowspan="2" style="width:32px">WLL<br>(Ton)</th>
+          <th rowspan="2" style="width:32px">Wt.<br>(lbs)</th>
+          <th colspan="3" class="group-hdr" style="border-right:2px solid var(--brand)">Screw Pin</th>
+          <th colspan="3" class="group-hdr" style="border-right:2px solid var(--brand)">Round Pin</th>
+          <th colspan="3" class="group-hdr">Bolt, Nut &amp; Cotter</th>
+        </tr>
+        <tr>
+          <th>Self<br>Color</th><th>Galv.</th><th style="border-right:2px solid var(--brand)">Orange<br>P.C.</th>
+          <th>Self<br>Color</th><th>Galv.</th><th style="border-right:2px solid var(--brand)">Orange<br>P.C.</th>
+          <th>Self<br>Color</th><th>Galv.</th><th>Orange<br>P.C.</th>
+        </tr>
+      </thead>
+      <tbody>
+<tr><td class="rd">3/16"</td><td class="wll">1/2</td><td>0.06</td><td>—</td><td>M645G</td><td class="style-sep">—</td><td>—</td><td>M345G</td><td class="style-sep">—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td class="rd">1/4"</td><td class="wll">3/4</td><td>0.12</td><td>M646</td><td>M646G</td><td class="style-sep">M646P</td><td>M346</td><td>M346G</td><td class="style-sep">M346P</td><td>M846</td><td>M846G</td><td>M846P</td></tr>
+<tr><td class="rd">5/16"</td><td class="wll">1</td><td>0.20</td><td>M647</td><td>M647G</td><td class="style-sep">M647P</td><td>M347</td><td>M347G</td><td class="style-sep">M347P</td><td>M847</td><td>M847G</td><td>M847P</td></tr>
+<tr><td class="rd">3/8"</td><td class="wll">1-1/2</td><td>0.30</td><td>M648</td><td>M648G</td><td class="style-sep">M648P</td><td>M348</td><td>M348G</td><td class="style-sep">M348P</td><td>M848</td><td>M848G</td><td>M848P</td></tr>
+<tr><td class="rd">7/16"</td><td class="wll">2</td><td>0.50</td><td>M649</td><td>M649G</td><td class="style-sep">M649P</td><td>M349</td><td>M349G</td><td class="style-sep">M349P</td><td>M849</td><td>M849G</td><td>M849P</td></tr>
+<tr><td class="rd">1/2"</td><td class="wll">3</td><td>0.75</td><td>M650</td><td>M650G</td><td class="style-sep">M650P</td><td>M350</td><td>M350G</td><td class="style-sep">M350P</td><td>M850</td><td>M850G</td><td>M850P</td></tr>
+<tr><td class="rd">5/8"</td><td class="wll">4-1/2</td><td>1.30</td><td>M651</td><td>M651G</td><td class="style-sep">M651P</td><td>M351</td><td>M351G</td><td class="style-sep">M351P</td><td>M851</td><td>M851G</td><td>M851P</td></tr>
+<tr><td class="rd">3/4"</td><td class="wll">6-1/2</td><td>2.30</td><td>M652</td><td>M652G</td><td class="style-sep">M652P</td><td>M352</td><td>M352G</td><td class="style-sep">M352P</td><td>M852</td><td>M852G</td><td>M852P</td></tr>
+<tr><td class="rd">7/8"</td><td class="wll">8-1/2</td><td>3.50</td><td>M653</td><td>M653G</td><td class="style-sep">M653P</td><td>M353</td><td>M353G</td><td class="style-sep">M353P</td><td>M853</td><td>M853G</td><td>M853P</td></tr>
+<tr><td class="rd">1"</td><td class="wll">10</td><td>5.00</td><td>M654</td><td>M654G</td><td class="style-sep">M654P</td><td>M354</td><td>M354G</td><td class="style-sep">M354P</td><td>M854</td><td>M854G</td><td>M854P</td></tr>
+<tr><td class="rd">1-1/8"</td><td class="wll">12</td><td>7.00</td><td>M655</td><td>M655G</td><td class="style-sep">M655P</td><td>M355</td><td>M355G</td><td class="style-sep">M355P</td><td>M855</td><td>M855G</td><td>M855P</td></tr>
+<tr><td class="rd">1-1/4"</td><td class="wll">14</td><td>9.50</td><td>M656</td><td>M656G</td><td class="style-sep">M656P</td><td>M356</td><td>M356G</td><td class="style-sep">M356P</td><td>M856</td><td>M856G</td><td>M856P</td></tr>
+<tr><td class="rd">1-3/8"</td><td class="wll">17</td><td>12.50</td><td>M666</td><td>M666G</td><td class="style-sep">M666P</td><td>M366</td><td>M366G</td><td class="style-sep">M366P</td><td>M866</td><td>M866G</td><td>M866P</td></tr>
+<tr><td class="rd">1-1/2"</td><td class="wll">20</td><td>17.20</td><td>M657</td><td>M657G</td><td class="style-sep">M657P</td><td>M357</td><td>M357G</td><td class="style-sep">M357P</td><td>M857</td><td>M857G</td><td>M857P</td></tr>
+<tr><td class="rd">1-5/8"</td><td class="wll">24</td><td>23.50</td><td>M685</td><td>M685G</td><td class="style-sep">M685P</td><td>M385</td><td>M385G</td><td class="style-sep">M385P</td><td>M885</td><td>M885G</td><td>M885P</td></tr>
+<tr><td class="rd">1-3/4"</td><td class="wll">30</td><td>27.70</td><td>M677</td><td>M677G</td><td class="style-sep">M677P</td><td>M377</td><td>M377G</td><td class="style-sep">M377P</td><td>M877</td><td>M877G</td><td>M877P</td></tr>
+<tr><td class="rd">2"</td><td class="wll">35</td><td>39.00</td><td>M658</td><td>M658G</td><td class="style-sep">M658P</td><td>M358</td><td>M358G</td><td class="style-sep">M358P</td><td>M858</td><td>M858G</td><td>M858P</td></tr>
+
+      </tbody>
+    </table>
+    <div class="table-footnote">SC = Self Colored &middot; G = Galvanized &middot; P = Orange Powder Coated. Screw pin &amp; bolt/nut/cotter: 6:1 design factor. Round pin: 5:1 design factor. All shackles have alloy quenched &amp; tempered pins. WLL &amp; traceability codes permanently marked on body.</div>
+  </div>
+
+  <div class="table-section" style="padding-top:4px;">
+    <div class="table-header-label">Dimensions (inches)</div>
+    <div style="text-align:center;padding:4px 0 6px;">
+      <img src="../assets/products/ref_shackles_cm_super_strong_3.png" alt="Shackle Dimension Diagram - D, B, E, P, W, R, L" style="height:90px;width:auto;object-fit:contain;display:inline-block;">
+    </div>
+    <table class="spec-table">
+      <thead><tr>
+        <th style="width:45px">Size D</th>
+        <th style="width:45px">WLL<br>(Ton)</th>
+        <th>P</th><th>E</th><th>W</th><th>R</th><th>L</th><th>B (min.)</th>
+      </tr></thead>
+      <tbody>
+<tr><td class="rd">3/16"</td><td class="wll">1/2</td><td>0.25</td><td>0.29</td><td>0.38</td><td>0.57</td><td>0.88</td><td>0.58</td></tr>
+<tr><td class="rd">1/4"</td><td class="wll">3/4</td><td>0.31</td><td>0.36</td><td>0.47</td><td>0.75</td><td>1.13</td><td>0.75</td></tr>
+<tr><td class="rd">5/16"</td><td class="wll">1</td><td>0.38</td><td>0.45</td><td>0.53</td><td>0.84</td><td>1.25</td><td>0.81</td></tr>
+<tr><td class="rd">3/8"</td><td class="wll">1-1/2</td><td>0.44</td><td>0.52</td><td>0.66</td><td>1.00</td><td>1.40</td><td>1.00</td></tr>
+<tr><td class="rd">7/16"</td><td class="wll">2</td><td>0.50</td><td>0.58</td><td>0.72</td><td>1.15</td><td>1.69</td><td>1.19</td></tr>
+<tr><td class="rd">1/2"</td><td class="wll">3</td><td>0.63</td><td>0.70</td><td>0.84</td><td>1.34</td><td>1.94</td><td>1.38</td></tr>
+<tr><td class="rd">5/8"</td><td class="wll">4-1/2</td><td>0.75</td><td>0.83</td><td>1.06</td><td>1.66</td><td>2.41</td><td>1.63</td></tr>
+<tr><td class="rd">3/4"</td><td class="wll">6-1/2</td><td>0.88</td><td>0.95</td><td>1.28</td><td>1.94</td><td>2.84</td><td>1.89</td></tr>
+<tr><td class="rd">7/8"</td><td class="wll">8-1/2</td><td>1.00</td><td>1.09</td><td>1.44</td><td>2.14</td><td>3.31</td><td>2.06</td></tr>
+<tr><td class="rd">1"</td><td class="wll">10</td><td>1.13</td><td>1.22</td><td>1.72</td><td>2.44</td><td>3.75</td><td>2.52</td></tr>
+<tr><td class="rd">1-1/8"</td><td class="wll">12</td><td>1.25</td><td>1.36</td><td>1.84</td><td>2.66</td><td>4.02</td><td>2.69</td></tr>
+<tr><td class="rd">1-1/4"</td><td class="wll">14</td><td>1.38</td><td>1.52</td><td>2.03</td><td>3.15</td><td>4.63</td><td>2.88</td></tr>
+<tr><td class="rd">1-3/8"</td><td class="wll">17</td><td>1.50</td><td>1.65</td><td>2.25</td><td>3.25</td><td>5.19</td><td>3.25</td></tr>
+<tr><td class="rd">1-1/2"</td><td class="wll">20</td><td>1.63</td><td>1.77</td><td>2.41</td><td>3.50</td><td>5.63</td><td>3.50</td></tr>
+<tr><td class="rd">1-5/8"</td><td class="wll">24</td><td>1.75</td><td>1.88</td><td>2.66</td><td>3.91</td><td>6.13</td><td>4.13</td></tr>
+<tr><td class="rd">1-3/4"</td><td class="wll">30</td><td>2.00</td><td>2.13</td><td>2.94</td><td>4.06</td><td>6.97</td><td>4.75</td></tr>
+<tr><td class="rd">2"</td><td class="wll">35</td><td>2.25</td><td>2.38</td><td>3.28</td><td>4.51</td><td>7.44</td><td>5.50</td></tr>
+
+      </tbody>
+    </table>
+  </div>
+
+  <div style="padding:1px 40px 1px;display:flex;gap:24px;">
+    <div style="flex:1;">
+      <div class="feat-title">Features</div>
+      <div class="feat-list">
+        <div class="feat-item"><span class="feat-dot">&bull;</span> 17-50% stronger than standard carbon shackles</div>
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Domestic microalloy steel — Made in USA</div>
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Major deformation before failure</div>
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Permanent WLL &amp; traceability markings</div>
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Alloy quenched &amp; tempered pins</div>
+      </div>
+    </div>
+    <div style="flex:0 0 200px;">
+      <div class="feat-title">Applications</div>
+      <div class="feat-list">
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Side loading connections</div>
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Multiple sling connections</div>
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Overhead lifting &amp; rigging</div>
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Crane operations</div>
+        <div class="feat-item"><span class="feat-dot">&bull;</span> Marine &amp; industrial</div>
+      </div>
+    </div>
+  </div>
+  <div class="custom-cta">Call for Volume Pricing &amp; Custom Orders<div class="custom-cta-sub">866-848-2032 &nbsp;&middot;&nbsp; murphylift.com &nbsp;&middot;&nbsp; All 3 styles &middot; All 3 finishes &middot; Same day shipping</div></div>
+  <div class="page-footer">
+    <span class="footer-left">MURPHY INDUSTRIAL PRODUCTS, INC. &middot; HOUSTON, TX</span>
+    <span class="footer-center">SHACKLES &amp; CONNECTORS</span>
+    <span class="footer-right">2026 CATALOG &middot; PAGE 18</span>
+  </div>
+</div>
+</body></html>

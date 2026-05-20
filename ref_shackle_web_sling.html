@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CM Long-Reach Shackle | Murphy Industrial Products</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+@page { size: letter; margin: 0; }
+*,*::before,*::after { margin:0; padding:0; box-sizing:border-box; }
+:root {
+  --brand: #E8600A; --brand-dk: #C44D00;
+  --green: #3E6B38; --green-lt: #5A8A50; --dark: #2D4A28;
+  --mid: #444; --light: #777; --rule: #CCC;
+  --bg: #FFFFFF; --bg2: #F7F5F2; --header-bg: #F0EDE8;
+  --font-d: 'Bebas Neue', Impact, sans-serif;
+  --font-b: 'Source Sans 3', 'Segoe UI', sans-serif;
+}
+html, body { font-family: var(--font-b); background: #E8E4DD; }
+.catalog-page {
+  width: 850px; min-height: 1100px; background: var(--bg);
+  margin: 24px auto; box-shadow: 0 4px 40px rgba(0,0,0,0.15);
+  position: relative; overflow: hidden; display: flex; flex-direction: column;
+}
+.page-top-bar {
+  background: var(--header-bg); padding: 12px 40px 10px;
+  display: flex; align-items: center; justify-content: space-between;
+  border-bottom: 3px solid var(--brand);
+}
+.page-top-bar .logo-area { display: flex; align-items: center; gap: 10px; }
+.logo-img { height: 36px; width: auto; }
+.page-number { font-family: var(--font-d); font-size: 14px; letter-spacing: 2px; color: var(--green); }
+.section-label-bar { font-size: 10px; letter-spacing: 2px; color: var(--green-lt); text-transform: uppercase; font-weight: 600; }
+.category-bar {
+  background: var(--green); padding: 6px 40px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.category-bar span { font-family: var(--font-d); font-size: 13px; letter-spacing: 2px; color: #fff; }
+.page-title-area {
+  padding: 16px 40px 8px; border-bottom: 2px solid var(--brand);
+  margin: 0 40px; padding-left: 0; padding-right: 0;
+  display: flex; align-items: flex-start; justify-content: space-between;
+}
+.page-title { font-family: var(--font-d); font-size: 32px; letter-spacing: 1px; color: var(--dark); line-height: 1; }
+.page-wll { font-size: 11px; color: var(--brand); font-weight: 700; letter-spacing: 0.5px; margin-top: 2px; }
+
+.content-section { display: flex; padding: 10px 40px 6px; gap: 20px; align-items: flex-start; }
+.content-left { flex: 1; }
+.content-right { flex: 0 0 320px; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+
+.shackle-desc { font-size: 11px; color: var(--mid); line-height: 1.6; margin-bottom: 8px; }
+.features-label { font-family: var(--font-d); font-size: 13px; color: var(--brand); letter-spacing: 1px; margin-bottom: 4px; }
+.features-list { font-size: 9.5px; color: var(--mid); line-height: 1.55; }
+.features-list div { display: flex; gap: 4px; margin-bottom: 1px; }
+.bullet { color: var(--brand); font-weight: 700; }
+
+.styles-line { font-size: 9.5px; color: var(--mid); margin-top: 6px; line-height: 1.5; }
+.styles-line strong { color: var(--dark); }
+
+.table-section { padding: 6px 40px 10px; flex: 1; }
+.table-header-label {
+  font-family: var(--font-d); font-size: 15px; letter-spacing: 1px; color: var(--dark);
+  margin-bottom: 5px; display: flex; align-items: center; gap: 8px;
+}
+.table-header-label::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
+
+table.spec-table { width: 100%; border-collapse: collapse; font-size: 9px; }
+table.spec-table thead th {
+  background: var(--green); color: #fff; padding: 5px 3px; text-align: center;
+  font-weight: 600; font-size: 8px; letter-spacing: 0.2px; text-transform: uppercase;
+  border-right: 1px solid var(--green-lt); line-height: 1.25;
+}
+table.spec-table thead th:last-child { border-right: none; }
+table.spec-table thead tr.sub-header th {
+  background: var(--green-lt); font-size: 7.5px; padding: 3px 3px;
+  border-right: 1px solid var(--green);
+}
+table.spec-table tbody td {
+  padding: 4px 3px; text-align: center; border-bottom: 1px solid #E8E4DD;
+  color: var(--mid); font-size: 9px;
+}
+table.spec-table tbody tr:nth-child(even) { background: var(--bg2); }
+table.spec-table tbody td:first-child {
+  background: rgba(62,107,56,0.08); font-weight: 700; color: var(--dark);
+  border-right: 2px solid var(--green);
+}
+table.spec-table thead th:first-child { border-right: 2px solid var(--brand); }
+
+.page-footer {
+  background: var(--green); padding: 10px 40px;
+  display: flex; align-items: center; justify-content: space-between;
+  margin-top: auto;
+}
+.footer-left { font-size: 9px; color: rgba(255,255,255,0.5); letter-spacing: 1px; }
+.footer-center { font-family: var(--font-d); font-size: 14px; color: #E8600A; letter-spacing: 2px; }
+.footer-right { font-size: 9px; color: rgba(255,255,255,0.5); letter-spacing: 1px; }
+.custom-cta {
+  text-align: center; padding: 8px 40px 10px;
+  font-family: var(--font-d); font-size: 15px; letter-spacing: 2px; color: var(--green);
+}
+.custom-cta-sub {
+  font-family: var(--font-b); font-size: 10px; color: var(--light);
+  letter-spacing: 1px; font-weight: 400; margin-top: 2px;
+}
+@media print { html, body { background: #fff; } .catalog-page { box-shadow: none; margin: 0; } }
+</style>
+</head>
+<body>
+<div class="catalog-page">
+
+  <div class="page-top-bar">
+    <div class="logo-area">
+      <img class="logo-img" src="https://murphylift.com/static/version1775463787/frontend/Melon/murphy/en_US/images/logo.svg" alt="Murphy - Lift. Pull. Tie Down.">
+    </div>
+    <span class="section-label-bar">Shackles &amp; Connectors</span>
+    <span class="page-number">PAGE 20</span>
+  </div>
+
+  <div class="category-bar">
+    <span>Shackles &nbsp;&#8250;&nbsp; Long-Reach Shackle</span>
+    <span>murphylift.com</span>
+  </div>
+
+  <div class="page-title-area">
+    <div>
+      <div class="page-title">CM Long-Reach Shackle</div>
+      <div class="page-wll">Working Load Limit: 7,000 to 50,000 lbs.</div>
+    </div>
+    <img src="../assets/products/ref_shackle_longreach_1.png" alt="Made in USA" style="height:38px;width:auto;">
+  </div>
+
+  <div class="content-section">
+    <div class="content-left">
+      <div class="shackle-desc">As one of the only manufacturers of long-reach shackles, we designed these shackles for use in construction applications where a longer reach is needed to attach to pick points.</div>
+
+      <div class="features-label">Benefits &amp; Features</div>
+      <div class="features-list">
+        <div><span class="bullet">&bull;</span> Design factor of 5:1</div>
+        <div><span class="bullet">&bull;</span> Meets the requirements of ASME B30.26, but must not be side loaded</div>
+        <div><span class="bullet">&bull;</span> Alloy steel</div>
+        <div><span class="bullet">&bull;</span> WLL forged on body</div>
+        <div><span class="bullet">&bull;</span> Offered in self-colored or durable orange powder coated finish</div>
+        <div><span class="bullet">&bull;</span> Do not point load. The load should be evenly distributed over the entire pin to achieve full working load limit.</div>
+        <div><span class="bullet">&bull;</span> Do not side load long-reach shackles</div>
+        <div><span class="bullet">&bull;</span> 80% of bolt/pin must be covered to obtain full working load limit</div>
+      </div>
+
+      <div class="styles-line">
+        <strong>Styles:</strong> Screw Pin, Bolt/Nut/Cotter<br>
+        <strong>Finishes:</strong> Self Colored, Orange Powder Coated
+      </div>
+    </div>
+
+    <div class="content-right">
+      <div style="text-align:center;">
+        <img src="../assets/products/ref_shackle_longreach_2.png" alt="CM Long-Reach Shackle" style="width:300px;height:auto;">
+        <img src="../assets/products/ref_shackle_longreach_3.png" alt="Long-Reach Shackle Dimensions" style="width:300px;height:auto;margin-top:6px;">
+      </div>
+    </div>
+  </div>
+
+  <div class="table-section">
+    <div class="table-header-label">Rated Capacities &amp; Specifications</div>
+    <table class="spec-table">
+      <thead>
+        <tr>
+          <th rowspan="2" style="width:42px;">Size<br>(in.)</th>
+          <th rowspan="2" style="width:58px;">Working<br>Load Limit<br>(lbs.)</th>
+          <th colspan="2" style="border-bottom:2px solid var(--brand);">Screw Pin<br>Product Code</th>
+          <th rowspan="2" style="width:42px;">Weight<br>(lbs.)</th>
+          <th colspan="2" style="border-bottom:2px solid var(--brand);">Bolt, Nut &amp; Cotter<br>Product Code</th>
+          <th rowspan="2" style="width:42px;">Weight<br>(lbs.)</th>
+          <th colspan="5" style="border-bottom:2px solid var(--brand);">Dimensions (in.)</th>
+        </tr>
+        <tr class="sub-header">
+          <th>Self Colored</th>
+          <th>Painted</th>
+          <th>Self Colored</th>
+          <th>Painted</th>
+          <th>P</th><th>D</th><th>L</th><th>W</th><th>G</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>5/8</td><td>7,000</td><td>M7151</td><td>M7151P</td><td>1.80</td><td>M9151</td><td>M9151P</td><td>1.95</td><td>0.75</td><td>0.63</td><td>4.00</td><td>2.25</td><td>1.57</td></tr>
+        <tr><td>3/4</td><td>10,000</td><td>M7152</td><td>M7152P</td><td>2.72</td><td>M9152</td><td>M9152P</td><td>3.21</td><td>0.88</td><td>0.75</td><td>4.53</td><td>2.75</td><td>1.81</td></tr>
+        <tr><td>1</td><td>19,000</td><td>M7154</td><td>M7154P</td><td>5.86</td><td>M9154</td><td>M9154P</td><td>6.31</td><td>1.00</td><td>1.00</td><td>5.50</td><td>3.25</td><td>2.38</td></tr>
+        <tr><td>1-1/4</td><td>28,000</td><td>M7156</td><td>M7156P</td><td>11.90</td><td>M9156</td><td>M9156P</td><td>12.90</td><td>1.38</td><td>1.25</td><td>6.19</td><td>3.88</td><td>3.06</td></tr>
+        <tr><td>1-1/2</td><td>34,000</td><td>M7157</td><td>M7157P</td><td>19.60</td><td>M9157</td><td>M9157P</td><td>20.17</td><td>1.625</td><td>1.50</td><td>7.00</td><td>4.50</td><td>3.50</td></tr>
+        <tr><td>1-3/4</td><td>50,000</td><td>M7177</td><td>M7177P</td><td>30.70</td><td>M9177</td><td>M9177P</td><td>33.30</td><td>2.00</td><td>1.75</td><td>8.00</td><td>5.25</td><td>4.25</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div style="padding:6px 40px 4px;display:flex;gap:24px;">
+    <div style="flex:1;">
+      <div style="font-family:var(--font-d);font-size:13px;letter-spacing:1px;color:var(--dark);margin-bottom:4px;">How to Order</div>
+      <div style="font-size:10px;color:var(--mid);line-height:1.6;">
+        <div style="display:flex;gap:5px;margin-bottom:1px;"><span style="color:var(--brand);font-weight:700;">&bull;</span> Specify product code when ordering</div>
+        <div style="display:flex;gap:5px;margin-bottom:1px;"><span style="color:var(--brand);font-weight:700;">&bull;</span> Choose Screw Pin or Bolt/Nut/Cotter style</div>
+        <div style="display:flex;gap:5px;margin-bottom:1px;"><span style="color:var(--brand);font-weight:700;">&bull;</span> Available in Self Colored or Orange Powder Coated finish</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="custom-cta">
+    Call for Customized Configurations
+    <div class="custom-cta-sub">866-848-2032 &nbsp;&middot;&nbsp; murphylift.com &nbsp;&middot;&nbsp; Same day shipping &middot; Full range of shackles &amp; connectors available</div>
+  </div>
+
+  <div class="page-footer">
+    <span class="footer-left">MURPHY INDUSTRIAL PRODUCTS, INC. &middot; HOUSTON, TX</span>
+    <span class="footer-center">SHACKLES &amp; CONNECTORS</span>
+    <span class="footer-right">2026 CATALOG &middot; PAGE 20</span>
+  </div>
+
+</div>
+</body>
+</html>
